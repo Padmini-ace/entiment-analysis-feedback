@@ -1,4 +1,4 @@
-# entiment-analysis-feedback
+# Sentiment-analysis-feedback
 A Flask app for analyzing customer feedback sentiments.
 # Sentiment Analysis Project - Customer Feedback (Flask App)
 
